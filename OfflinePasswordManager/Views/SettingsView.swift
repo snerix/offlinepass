@@ -129,7 +129,7 @@ struct SettingsView: View {
                             .font(.caption)
                     }
                     
-                    Link(destination: URL(string: "https://github.com/snerix/offline-password-manager")!) {
+                    Link(destination: URL(string: "https://github.com/snerix/offlinepass")!) {
                         HStack {
                             Text("开源地址")
                             Spacer()
