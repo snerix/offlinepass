@@ -1,0 +1,2 @@
+CFBundleDisplayName = "オフライン鍵";
+NSFaceIDUsageDescription = "Face IDを使用してオフライン鍵をすばやくロック解除します";
